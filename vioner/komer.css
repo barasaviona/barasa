@@ -1,0 +1,21 @@
+h1{
+font-style:italic;
+font-famly:helvetics;
+font-size:100px;
+text-align:center;
+color:red;
+font-style:italic;
+font-weight:700;
+}
+
+body{
+  background-color: pink;
+}
+
+.blue{
+  color: blue;
+}
+
+.black{
+  color: black;
+}
